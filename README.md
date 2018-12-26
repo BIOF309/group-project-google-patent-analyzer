@@ -1,12 +1,11 @@
-final-project-template
+Google Patent Analyzer
 ==============================
 
-A template I recommend for final projects. Feel free to modify as needed!
-Based on Cookiecutter Data Science:
+This tool is designed to analyze the output from Google patent using any search terms. We are also developing an way to interact with Google Patent API so any search query can be input from the program. 
 
-repo: https://github.com/drivendata/cookiecutter-data-science
 
-site: http://drivendata.github.io/cookiecutter-data-science/
+repo: https://github.com/BIOF309/group-project-google-patent-analyzer/
+
 
 
 
